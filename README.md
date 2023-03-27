@@ -3,7 +3,8 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 
-![Gorsel](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+![Gorsel](https://user-images.githubusercontent.com/5203442/228058898-ebbab798-1f5e-47b2-9885-4cc054c158db.png)
+
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
